@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(12, 75, 12);
+    
+}
+p{
+    font-size: large;
+    
+}
+h1{
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+p:nth-of-type(1){
+color:white;
+font-family: 'Times New Roman', Times, serif;
+}
+
+p:nth-of-type(2){
+    color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p:nth-of-type(3){
+ color: rgb(248, 197, 29);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p:nth-of-type(4){
+    color: white;
+
+}
+
+p:nth-of-type(5){
+ color: rgb(241, 156, 44);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p:nth-of-type(6){
+ color: rgb(235, 92, 92);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p:nth-of-type(7){
+ color: rgb(222, 184, 135);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+p:nth-of-type(8){
+ color: rgb(228, 100, 121);
+    font-family: 'Times New Roman', Times, serif;
+}
